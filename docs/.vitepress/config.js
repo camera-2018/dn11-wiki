@@ -85,7 +85,8 @@ export default withMermaid(
             { text: "IBGP", link: "/connect/ibgp" },
             { text: "BFD", link: "/connect/bfd" },
             { text: "Route Collector", link: "/connect/collector" },
-            { text: "ROA", link: "/connect/roa" },
+            { text: "ROA / RPKI", link: "/connect/roa-rpki" },
+            { text: "Large Community", link: "/connect/large-community"}
           ],
         },
         {
